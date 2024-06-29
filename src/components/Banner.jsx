@@ -1,5 +1,3 @@
-
-
 function Banner({images}, {alt}) {
     // state (data)
 

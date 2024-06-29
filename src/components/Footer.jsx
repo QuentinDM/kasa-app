@@ -1,6 +1,5 @@
 import Logo from '../assets/LOGO-white.png' ;
 
-
 function Footer() {
     //RENDER 
     return (
